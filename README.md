@@ -1,4 +1,4 @@
-# [shumbul.github.io](https://shumbul.github.io/)
+ 
 
 ## Sections 
   a. Profile \
