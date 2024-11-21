@@ -30,7 +30,7 @@ I build **web applications** with AI and **Machine Learning models**, and I’m 
 ## 📬 **Let’s Connect**
 - **LinkedIn: [SHAIK ARIF](https://www.linkedin.com/in/shaik-arif-b47317245/)**
 - **GitHub: [SHAIK ARIF](https://github.com/shaikarif)**
-- **Email: [SHAIK Arif](shaikarif.research@gmail.com)**
+- **Email: [SHAIK ARIF](shaikarif.research@gmail.com)**
 
 Feel free to check out my work, drop a message, or collaborate on exciting projects! I’m always open to learning and growing with the community.
 
